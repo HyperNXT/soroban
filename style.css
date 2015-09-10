@@ -1,0 +1,162 @@
+body
+{
+        background-color: #2c3e50;
+        color: white;
+}
+
+#container
+{
+    width: 1024px;
+    height: 768px; 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -384px;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: -512px;
+
+}
+
+.A
+{
+   list-style-image: url(images/A.png);
+}
+
+.B
+{
+    list-style-image: url(images/B.png);
+}
+
+.C
+{
+    list-style-image: url(images/C.png); 
+}
+
+.D
+{
+    list-style-image: url(images/D.png);
+}
+
+#odliczanie
+{   
+    width: 200px;
+    color: white;
+    height: 100px;
+    font-size: 100px;
+    margin-left: 378px;
+    
+
+}
+
+input
+{
+    
+    background: transparent;
+    background-image: url(images/start.png);
+    border: none;
+    width: 200px;
+    height: 100px;
+    margin-top: 50px;
+}
+
+#dalej
+{
+    float:left;
+    width: 200px;
+    height: 100px;
+
+}
+
+.nastepna
+{
+    float:left;
+    width: 200px;
+    height: 100px;
+    margin-top: -50px;
+    margin-left: 378px;
+    background-image: url(images/dalej.png);
+    background-repeat: no-repeat;
+}
+
+.linkbox
+{
+    float: left;
+    width: 150px;
+    height: 200px;
+    margin-left: 39px;
+    margin-top: 50px;
+    margin-bottom: 39px;
+}
+
+h1
+{
+    color: white;
+    font-size: 150px;
+    letter-spacing: 21px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: -30px;
+}
+
+h3
+{   
+    color: white;
+    letter-spacing: 1.5px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h4
+{
+    color: white;
+    font-size: 23px;
+    letter-spacing: 28px;
+    text-align: center; 
+    margin-top: -5px;
+
+}
+
+.link
+{
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin-top: 125px;
+    background-repeat: no-repeat;
+}
+.link1
+{
+    background-image: url(images/1.png); 
+
+} 
+
+.link2
+{
+    background-image: url(images/2.png); 
+} 
+
+.link3
+{
+    background-image: url(images/3.png); 
+} 
+
+.link4
+{
+
+    background-image: url(images/4.png); 
+} 
+
+.link5
+{
+    background-image: url(images/5.png); 
+} 
+
+div
+{
+    color: white;
+}
+
+
+
